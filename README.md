@@ -81,7 +81,7 @@ tbd | tbd | tbd
 
 ### Email & Messaging
 - Email: mstearns1@umassd.edu
-- Response time: [typically within 24-48 hours]
+- Response time: typically within 24 hours
 - For quick clarifications before class, arrive early for face-to-face questions
 
 ### Additional Support
